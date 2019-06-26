@@ -1,0 +1,29 @@
+.example-icon {
+    padding: 0 14px;
+  }
+  
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+  
+  .app_name{
+    font-family: 'Roboto Slab';
+    font-size: 15px Bold;
+    color: #508BE4;
+}
+
+.title_bar{
+    background-color: #ffffff;
+    Box-Shadow:0 1px 10px 0 rgba(87,101,122,0.27);
+    height: 5px;
+}
+
+  .menu-spacer {
+    margin-left: 32px;
+  }
+
+  .app_menu_name{
+    font-family: 'Roboto Medium';
+    font-size: 15px Bold;
+    color: #000000;
+}
